@@ -1,2 +1,1 @@
-# guessinggames
-{reprograma} logic with js
+### Guessing games with JavaScript {reprograma} Module 2 
